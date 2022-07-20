@@ -1,0 +1,1 @@
+printf("the area is %f", y);
